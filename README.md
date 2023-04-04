@@ -14,4 +14,4 @@ To view the design files click [here](https://www.figma.com/file/A7Kq8fuk9H9bosa
 
 ### Screenshot
 
-![img](https://postimg.cc/F17TsYZc)
+![img](https://i.postimg.cc/nV1g279d/Screenshot-2023-04-04-at-7-44-51-PM.png)
