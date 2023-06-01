@@ -1,6 +1,7 @@
 ## Dukaan high fidelity design
 
 ### About Dukaan  
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 Dukaan is your local delivery service for all those delicious Indian Snacks that have a nostalgic touch to them. We hope not only to remind you but also to share those feelings with your friends and families. With more than 100+ different products, we deliver directly from our warehouse to your doorsteps.
 
